@@ -1,0 +1,25 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Dmitry Demos Portfolio",
+    "short_name": "Demos",
+    "description": "Musician's Dmitry Demos website portfolio",
+    "icons": [
+        {
+            "src": "/assets/site-icons/site.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/site-icons/site40.png",
+            "sizes": "40x40",
+            "type": "image/png"
+        }
+    ],
+    "scope": "/",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "theme_color": "#898989",
+    "background_color": "#000000"
+}
